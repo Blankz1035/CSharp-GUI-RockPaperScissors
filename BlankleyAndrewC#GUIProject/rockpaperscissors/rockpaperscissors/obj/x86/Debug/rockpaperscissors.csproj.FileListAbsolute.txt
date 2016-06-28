@@ -1,0 +1,31 @@
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Form1.resources
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Properties.Resources.resources
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.exe
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.pdb
+E:\Java\C#\rockpapersscissors\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csproj.GenerateResource.Cache
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.exe
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.pdb
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csprojResolveAssemblyReference.cache
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Form1.resources
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Properties.Resources.resources
+E:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csproj.GenerateResource.Cache
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.exe
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.pdb
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csprojResolveAssemblyReference.cache
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Form1.resources
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Properties.Resources.resources
+F:\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\bin\Debug\rockpaperscissors.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Form1.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.Properties.Resources.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewC#GUIProject\rockpaperscissors\rockpaperscissors\obj\x86\Debug\rockpaperscissors.csproj.GenerateResource.Cache
